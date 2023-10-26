@@ -1,0 +1,73 @@
+2023-10-26 19:02:59.995458 [info] : ========== Server init ==========
+2023-10-26 19:02:59.995472 [info] : Port:8888, OpenLinger: false
+2023-10-26 19:02:59.995475 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-10-26 19:02:59.995477 [info] : LogSys level: 1
+2023-10-26 19:02:59.995478 [info] : srcDir: /home/bee/WebServer/resources/
+2023-10-26 19:02:59.995525 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-10-26 19:02:59.995529 [info] : ========== Server start ==========
+2023-10-26 19:03:00.497528 [info] : Client[6](192.168.179.1:7113) in, userCount:1
+2023-10-26 19:03:00.497680 [info] : Client[6] in!
+2023-10-26 19:03:00.497716 [info] : Client[7](192.168.179.1:30710) in, userCount:2
+2023-10-26 19:03:00.497723 [info] : Client[7] in!
+2023-10-26 19:03:00.570656 [info] : Client[10](192.168.179.1:37622) in, userCount:3
+2023-10-26 19:03:00.570695 [info] : Client[10] in!
+2023-10-26 19:03:00.570700 [info] : Client[11](192.168.179.1:5620) in, userCount:4
+2023-10-26 19:03:00.570703 [info] : Client[11] in!
+2023-10-26 19:03:00.570707 [info] : Client[12](192.168.179.1:21973) in, userCount:5
+2023-10-26 19:03:00.570710 [info] : Client[12] in!
+2023-10-26 19:03:00.634474 [info] : Client[8](192.168.179.1:8180) in, userCount:6
+2023-10-26 19:03:00.634581 [info] : Client[8] in!
+2023-10-26 19:03:08.649972 [info] : Client[12] quit!
+2023-10-26 19:03:08.650566 [info] : Client[12](192.168.179.1:21973) quit, UserCount:5
+2023-10-26 19:03:08.751632 [info] : Client[9](192.168.179.1:57811) in, userCount:6
+2023-10-26 19:03:08.751954 [info] : Client[9] in!
+2023-10-26 19:05:20.090777 [info] : ========== Server init ==========
+2023-10-26 19:05:20.090791 [info] : Port:8888, OpenLinger: false
+2023-10-26 19:05:20.090793 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-10-26 19:05:20.090795 [info] : LogSys level: 1
+2023-10-26 19:05:20.090796 [info] : srcDir: /home/bee/WebServer/resources/
+2023-10-26 19:05:20.090839 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-10-26 19:05:20.090842 [info] : ========== Server start ==========
+2023-10-26 19:05:27.614946 [info] : Client[6](192.168.179.1:4843) in, userCount:1
+2023-10-26 19:05:27.615052 [info] : Client[6] in!
+2023-10-26 19:05:27.615081 [info] : Client[7](192.168.179.1:8183) in, userCount:2
+2023-10-26 19:05:27.615103 [info] : Client[7] in!
+2023-10-26 19:05:27.688475 [info] : Client[8](192.168.179.1:11206) in, userCount:3
+2023-10-26 19:05:27.688573 [info] : Client[8] in!
+2023-10-26 19:05:27.688756 [info] : Client[9](192.168.179.1:15863) in, userCount:4
+2023-10-26 19:05:27.688771 [info] : Client[9] in!
+2023-10-26 19:05:27.688781 [info] : Client[10](192.168.179.1:62952) in, userCount:5
+2023-10-26 19:05:27.688786 [info] : Client[10] in!
+2023-10-26 19:05:27.778463 [info] : Client[11](192.168.179.1:62948) in, userCount:6
+2023-10-26 19:05:27.779004 [info] : Client[11] in!
+2023-10-26 19:11:31.596491 [info] : ========== Server init ==========
+2023-10-26 19:11:31.596506 [info] : Port:8888, OpenLinger: false
+2023-10-26 19:11:31.596509 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-10-26 19:11:31.596511 [info] : LogSys level: 1
+2023-10-26 19:11:31.596512 [info] : srcDir: /home/bee/WebServer/resources/
+2023-10-26 19:11:31.596557 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-10-26 19:11:31.596560 [info] : ========== Server start ==========
+2023-10-26 19:12:01.129176 [info] : Client[18](192.168.179.1:30448) in, userCount:1
+2023-10-26 19:12:01.129368 [info] : Client[18] in!
+2023-10-26 19:12:01.129424 [info] : Client[19](192.168.179.1:23251) in, userCount:2
+2023-10-26 19:12:01.129602 [info] : Client[19] in!
+2023-10-26 19:12:01.210357 [info] : Client[20](192.168.179.1:36573) in, userCount:3
+2023-10-26 19:12:01.210451 [info] : Client[20] in!
+2023-10-26 19:12:01.210469 [info] : Client[21](192.168.179.1:54730) in, userCount:4
+2023-10-26 19:12:01.210472 [info] : Client[21] in!
+2023-10-26 19:12:01.210475 [info] : Client[22](192.168.179.1:20181) in, userCount:5
+2023-10-26 19:12:01.210478 [info] : Client[22] in!
+2023-10-26 19:12:01.306835 [info] : Client[23](192.168.179.1:28358) in, userCount:6
+2023-10-26 19:12:01.306882 [info] : Client[23] in!
+2023-10-26 19:12:12.627794 [info] : Verify name:202141060106 pwd:lzq0212.
+2023-10-26 19:12:12.633201 [error]: RequestLine Error
+2023-10-26 19:12:12.633537 [info] : Client[22] quit!
+2023-10-26 19:12:12.633598 [info] : Client[22](192.168.179.1:20181) quit, UserCount:5
+2023-10-26 19:12:12.703071 [info] : Client[22](192.168.179.1:25057) in, userCount:6
+2023-10-26 19:12:12.703140 [info] : Client[22] in!
+2023-10-26 19:12:21.525008 [info] : Verify name:20214 pwd:lzq0212.
+2023-10-26 19:12:21.527563 [error]: RequestLine Error
+2023-10-26 19:12:21.527785 [info] : Client[20] quit!
+2023-10-26 19:12:21.528089 [info] : Client[20](192.168.179.1:36573) quit, UserCount:5
+2023-10-26 19:12:21.601733 [info] : Client[20](192.168.179.1:9943) in, userCount:6
+2023-10-26 19:12:21.601785 [info] : Client[20] in!
